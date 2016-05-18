@@ -36,6 +36,7 @@ Neil Katin's notes from the 14 May LAH CERT exercise
         * should encourage county class
         * should extract simple 'best practices' for those who haven't taken the class
         * e.g. Net Control sends/fills forms, Scribe does logs and organizes backlog
+    * pre-written text for net open/close/periodic update
     * samples of 'correctly filled' forms
     * backboard for station to clip forms/assignments to
     * net control couldn't send texts to field teams because 'too bright to read screen'

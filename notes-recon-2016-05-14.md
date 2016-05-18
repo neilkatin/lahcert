@@ -6,7 +6,7 @@ Neil Katin's notes from the 14 May LAH CERT exercise
 --------------------------------
 
 * Need a briefing checklist, to avoid leaving points out
-        * (preprinted form with fill-in fields?)
+    * (preprinted form with fill-in fields?)
     * checkin procedures
     * current frequencies
     * relaying teams who can't communicate
@@ -28,7 +28,7 @@ Neil Katin's notes from the 14 May LAH CERT exercise
 
 * Current process makes it hard to re-task teams in the field
     * no backlog of assignments at recon
-    * no maps with field teams
+    * no maps with field teams for other zones
 
 * Net control
     * need extra clip boards in case of wind
@@ -72,7 +72,7 @@ Neil Katin's notes from the 14 May LAH CERT exercise
     * Confusion about how to report "all OK" - Incident form, 213, or original assignment form?
 
 * field team communication issues
-    * 2 teams reported signicant areas of non-coverage, for both simples and W6LAH
+    * 2 teams reported signicant areas of non-coverage, for both simplex and W6LAH
         * no team recorded dead-zone on maps (we didn't ask): it should be part of our procedures
     * send recon email about N6NFI's signal strength test function
 
